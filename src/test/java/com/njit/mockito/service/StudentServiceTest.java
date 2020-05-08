@@ -56,6 +56,10 @@ public class StudentServiceTest {
 
     }
 
+    @Test
+    public void testGit(){
+        System.out.println("测试Git提交");
+    }
 
 
 
